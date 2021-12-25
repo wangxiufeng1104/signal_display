@@ -15,13 +15,7 @@
 
 #define  _BTN_SCREEN0_BUTTON1                                                  6
 
-//画面Screen1中按钮Button1按下时的图片
-#define  _IMG_SCREEN1_BUTTON1_DOWN                                             2
-
 #define  _BTN_SCREEN1_BUTTON1                                                  1
-
-//画面Screen1中按钮Button2按下时的图片
-#define  _IMG_SCREEN1_BUTTON2_DOWN                                             3
 
 #define  _BTN_SCREEN1_BUTTON2                                                  6
 
