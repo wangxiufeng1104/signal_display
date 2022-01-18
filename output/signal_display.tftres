@@ -5,13 +5,15 @@
     </pages>
     <images>
         <image id="0" url="e:\kunyi\signal_display\signal_display\images\sig.ICON" effect_width="20" effect_height="20" />
-        <image id="1" url="e:\kunyi\signal_display\signal_display\Images\选择信号.png" effect_width="32" effect_height="100" />
-        <image id="2" url="e:\kunyi\signal_display\signal_display\Images\选择信号_按下.png" effect_width="32" effect_height="100" />
-        <image id="3" url="e:\kunyi\signal_display\signal_display\images\返回.png" effect_width="40" effect_height="80" />
-        <image id="4" url="e:\kunyi\signal_display\signal_display\Images\返回_按下.png" effect_width="40" effect_height="80" />
-        <image id="5" url="e:\kunyi\signal_display\signal_display\images\确定.png" effect_width="40" effect_height="80" />
-        <image id="6" url="e:\kunyi\signal_display\signal_display\Images\确定_按下.png" effect_width="40" effect_height="80" />
-        <image id="7" url="e:\kunyi\signal_display\signal_display\images\select.ICON" effect_width="16" effect_height="16" />
+        <image id="1" url="e:\kunyi\signal_display\signal_display\Images\上一页.png" effect_width="40" effect_height="80" />
+        <image id="2" url="e:\kunyi\signal_display\signal_display\Images\上一页_press.png" effect_width="40" effect_height="80" />
+        <image id="3" url="e:\kunyi\signal_display\signal_display\Images\下一页.png" effect_width="40" effect_height="80" />
+        <image id="4" url="e:\kunyi\signal_display\signal_display\Images\下一页_press.png" effect_width="40" effect_height="80" />
+        <image id="5" url="e:\kunyi\signal_display\signal_display\images\返回.png" effect_width="40" effect_height="80" />
+        <image id="6" url="e:\kunyi\signal_display\signal_display\Images\返回_按下.png" effect_width="40" effect_height="80" />
+        <image id="7" url="e:\kunyi\signal_display\signal_display\images\确定.png" effect_width="40" effect_height="80" />
+        <image id="8" url="e:\kunyi\signal_display\signal_display\Images\确定_按下.png" effect_width="40" effect_height="80" />
+        <image id="9" url="e:\kunyi\signal_display\signal_display\images\select.ICON" effect_width="16" effect_height="16" />
     </images>
     <waves />
 </Resource>
